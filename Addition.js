@@ -1,4 +1,4 @@
-var count = prompt("Choose an arithmetic method: \n1. Addition \n2. Subtraktion\n3. Multiplikation\n4. Division");
+var count = prompt("Choose an arithmetic method: \n1. Addition \n2. Subtraction\n3. Multiplication\n4. Division");
 var x = parseInt(prompt("Enter your first number", "0"));
 var y = parseInt(prompt("Enter your second number", "0"));
 var z = +x + +y;
